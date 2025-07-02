@@ -72,7 +72,7 @@ Execute estes testes para validar o sistema:
    - ✅ Deve retornar fallback: "Não encontrei essa informação..."
    - ✅ Deve sugerir tópicos alternativos
 
-## 📊 Sistema de Avaliação
+## Sistema de Avaliação
 
 ### Métricas Implementadas
 
@@ -96,7 +96,7 @@ npm run eval
 - **Answer Relevancy > 0.7**: Respostas bem alinhadas
 - **Faithfulness > 0.8**: Alta fidelidade aos documentos
 
-## 🎯 Avaliação de Usabilidade
+## Avaliação de Usabilidade
 
 ### System Usability Scale (SUS)
 
@@ -150,7 +150,7 @@ npm run eval      # Executar avaliações
 npm run lint      # Linting do código
 \`\`\`
 
-## 🚀 Deploy em Produção
+## Deploy em Produção
 
 ### Vercel (Recomendado)
 
@@ -172,25 +172,5 @@ npm run build
 
 # Deploy manual ou conectar repositório
 \`\`\`
-
-## 🤝 Contribuindo
-
-1. Fork o projeto
-2. Crie uma branch para sua feature
-3. Commit suas mudanças
-4. Push para a branch
-5. Abra um Pull Request
-
-## 📝 Licença
-
-MIT License - veja o arquivo LICENSE para detalhes.
-
-## 🆘 Suporte
-
-- **Issues**: Use o GitHub Issues para reportar bugs
-- **Documentação**: Consulte este README
-- **Contato**: [seu-email@exemplo.com]
-
----
 
 **Desenvolvido com ❤️ usando React 18 + TypeScript + Tailwind CSS**
