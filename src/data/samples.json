@@ -1,0 +1,26 @@
+
+{
+  "evaluation_samples": [
+    {
+      "id": "react-usememo-1",
+      "question": "Como uso useMemo no React 18?",
+      "expected_context": "useMemo, React 18, performance, memorização",
+      "expected_answer": "O useMemo é um hook do React que memoriza o resultado de uma computação cara para otimizar performance",
+      "category": "hooks"
+    },
+    {
+      "id": "component-button-1", 
+      "question": "Quero um componente de Button reutilizável",
+      "expected_context": "componente, Button, TypeScript, props",
+      "expected_answer": "Exemplo de componente Button com variants, sizes e props tipadas",
+      "category": "components"
+    },
+    {
+      "id": "fallback-test-1",
+      "question": "Qual a capital do Brasil?",
+      "expected_context": "",
+      "expected_answer": "Não encontrei essa informação específica nos documentos disponíveis",
+      "category": "fallback"
+    }
+  ]
+}
